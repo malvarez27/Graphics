@@ -5,8 +5,10 @@ Coursework from CMSI 371: Graphics completed at LMU
 I used Bezier's algorithm to draw multiple curves that will form an image. A user is able to input points that will be used in the algorithm to transform points to a line and finally, into a curve. I inputted points for an image of Baby Yoda I found online, and found that Bezier's curve algorithm rendered the points better than Chaikin's algorithm would have, since Chaikin's algorithm does not keep endpoints in its iterations.
 
 Coded in C++ on Xcode using openGL and GLUT frameworks.
-![Alt Text](OriginalPic.jpg)
-![Alt Text](Results.png)
+Original Image | Final Image
+-------|---------------
+![Alt Text](OriginalPic.jpg)   | ![Alt Text](Results.png)
+
 
 
 # Assignment #2: 3D Model
